@@ -2,6 +2,8 @@
 title: Proofer privacy policy
 ---
 
+# Proofer privacy policy
+
 Last updated: 2 October 2026
 
 ## The short version
